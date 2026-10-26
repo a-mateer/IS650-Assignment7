@@ -1,6 +1,8 @@
 # IS650-Assignment7
 Project name: Assignment 7
+
 Student name: Aaron Mateer
+
 GitHub username: a-mateer
 
 # Short description 
