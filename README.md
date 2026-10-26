@@ -3,7 +3,7 @@ Project name: Assignment 7
 Student name: Aaron Mateer
 GitHub username: a-mateer
 
-# Short description: 
+# Short description 
 This is a number guessing game. The program selects a secret number between 1 and 1,000. The user guesses numbers until they find the secret number. The number of guesses is displayed at the end.
 
 # Input accepted
